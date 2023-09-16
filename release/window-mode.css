@@ -1,39 +1,39 @@
 /* Like Another Window */
 #app-mount .withFrame-2dL45i {
-    margin: 24px 24px 0;
+    margin: 0px 0px 0;
 }
 #app-mount .withFrame-2dL45i::after {
-    top: calc(30px + var(--border-width));
-    width: calc((100% - var(--border-width)*2) - 24px*2);
+    top: calc(0px + var(--border-width));
+    width: calc((0% - var(--border-width)*0) - 0px*0);
 }
 #app-mount .layers-OrUESM {
-    margin: 0 24px 24px;
+    margin: 0 0px 0px;
 }
 #app-mount .layers-OrUESM {
     box-shadow: var(--elevation-high);
 }
 
 .noticeWrapper-8z511t /* BD Notice */ {
-    margin-left: 24px;
-    margin-right: 24px;
+    margin-left: 0px;
+    margin-right: 0px;
     border-left: var(--border-width) solid var(--border-color);
     border-right: var(--border-width) solid var(--border-color);
     box-shadow: none !important;
 }
 
 #app-mount .typeMacOS-3V4xXE /* MacOS window */ {
-    margin-top: 24px;
-    margin-left: 24px;
+    margin-top: 0px;
+    margin-left: 0px;
     border-top-left-radius: var(--round-corners);
     border-top-right-radius: var(--round-corners);
-    width: calc(100% - (48px + var(--border-width)*2));
+    width: calc(0% - (0px + var(--border-width)*0));
 }
 
 .platform-win .container-2RRFHK /* Did You Know? Screen */ {
     left: var(--border-width);
-    width: calc((100% - var(--border-width)*2) - 24px*2);
-    height: calc((100% - var(--border-width)) - 24px);
-    margin: 0 24px 24px;
+    width: calc((0% - var(--border-width)*0) - 0px*0);
+    height: calc((0% - var(--border-width)) - 0px);
+    margin: 0 0px 0px;
     border-bottom-left-radius: var(--round-corners);
     border-bottom-right-radius: var(--round-corners);
 }
